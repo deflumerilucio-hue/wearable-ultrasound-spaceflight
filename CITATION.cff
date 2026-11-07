@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the preprint."
+title: "Feasibility of a wearable ultrasound sensor for monitoring tibial cortical bone and calf muscle in long-duration spaceflight: physiological signal versus measurement uncertainty"
+authors:
+  - family-names: "De Flumeri"
+    given-names: "Lucio"
+    orcid: "https://orcid.org/0009-0000-4680-4555"
+    affiliation: "Independent researcher"
+version: "1.0"
+doi: "10.5281/zenodo.23982476"
+date-released: "2026-11-06"
+license: CC-BY-4.0
+url: "https://doi.org/10.5281/zenodo.23982476"
+type: article
+keywords:
+  - spaceflight
+  - wearable sensor
+  - quantitative ultrasound
+  - axial transmission
+  - cortical bone
+  - muscle atrophy
+  - A-mode ultrasound
+  - minimum detectable change
+  - k-Wave
+  - numerical simulation
